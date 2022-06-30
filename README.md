@@ -1,2 +1,2 @@
 
-Built Calculator using html,css,js
+Calculator using html,css,js
